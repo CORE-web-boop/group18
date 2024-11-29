@@ -1,0 +1,23 @@
+{
+  "name": "user_profilepage_generator",
+  "version": "1.0.0",
+  "description": "An Express.js server that generates a simple profile page based on URL parameters",
+  "main": "node techcrush group 18.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CORE-web-boop/TCgroup18.git"
+  },
+  "author": "Tech crush Backend Group 18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CORE-web-boop/Tc-18-userprofilepagegenerator/issues"
+  },
+  "homepage": "https://github.com/CORE-web-boop/Tc-18-userprofilepagegenerator#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
