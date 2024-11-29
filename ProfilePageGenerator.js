@@ -15,6 +15,7 @@ app.get('/profile', (req, res) => {
   const age = req.query.age;   // Extracts the age parameter 'query'
   
   res.send(`User's Name : ${name},  User's age: ${age}`);
+    //outputs the User's name and age...
   
 });
 
